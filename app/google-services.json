@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373593693498",
+    "firebase_url": "https://babysitterfinder-fd468.firebaseio.com",
+    "project_id": "babysitterfinder-fd468",
+    "storage_bucket": "babysitterfinder-fd468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373593693498:android:a1124a13190a8a3a9f0403",
+        "android_client_info": {
+          "package_name": "com.example.babysitterfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373593693498-raqcmt75d3tifi3u4m944nhh4oo86v0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babysitterfinder",
+            "certificate_hash": "ee44dabd7fd36e9b01f6b61b2122f49d5256f7a5"
+          }
+        },
+        {
+          "client_id": "373593693498-an7p7uivf90evnau6cjmr1t8hn9g4it3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUK1yKnLeHPIIfEgE0aUJ9AiT_N-T3mLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373593693498-an7p7uivf90evnau6cjmr1t8hn9g4it3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
